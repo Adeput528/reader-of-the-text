@@ -1,7 +1,8 @@
 # reader-of-the-text
 This is a reader of the text that you entered or selected for those who are too lazy to read it themselves.
 
-This is a script written using the library espeak
+This is a script written using the library espeak.
+coding and testing takes place on kali linux
 
 This is a quick guide to flags.
 
